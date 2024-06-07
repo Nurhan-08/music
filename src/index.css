@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.white{
+  background: #fff;
+  height: 100vh;
+}
+
+.dark{
+  background: #414141;
+  color: #fff;
+  height: 100vh;
+  .MuiPaper-root {
+    background: #414141;
+  }
+}
